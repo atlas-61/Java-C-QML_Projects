@@ -10,5 +10,5 @@ Codes are pretty nasty and bad. I will improve myself.
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/JzTpRBZ/Screenshot-from-2019-09-20-20-28-45.png" alt="Screenshot-from-2019-09-20-20-28-45" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/FgqLhc9/Screenshot-from-2019-09-20-20-28-53.png" alt="Screenshot-from-2019-09-20-20-28-53" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Ct6xQbj/Screenshot-from-2019-09-20-20-29-26.png" alt="Screenshot-from-2019-09-20-20-29-26" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/YbXpznF/Screenshot-from-2019-09-20-20-29-46.png" alt="Screenshot-from-2019-09-20-20-29-46" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/interpretation-death-not-proud-donne'>summary of the poem death be not proud</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/YbXpznF/Screenshot-from-2019-09-20-20-29-46.png" alt="Screenshot-from-2019-09-20-20-29-46" border="0"></a>
 
