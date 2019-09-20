@@ -6,5 +6,5 @@ If there is a calculations in memory, M symbol turns green.
 It has some scientific functions and hex numbers.
 Codes are pretty nasty and bad. I will improve myself.
 
-![1.]([url=https://imgbb.com/][img]https://i.ibb.co/kD8xFnw/Screenshot-from-2019-09-20-20-28-36.png[/img][/url])
+![Alt text](https://ibb.co/NNjszhJ.jpg "Optional title")
 
