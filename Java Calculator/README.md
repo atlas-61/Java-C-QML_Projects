@@ -7,4 +7,4 @@ It has some scientific functions and hex numbers.
 Codes are pretty nasty and bad. I will improve myself.
 
 ![1.](https://ibb.co/NNjszhJ)
-Format: ![Alt Text](url)
+Format: ![Alt Text](jpg)
