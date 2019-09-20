@@ -5,3 +5,6 @@ When you scroll up/down in the left blank area it shows previous/latest calculat
 If there is a calculations in memory, M symbol turns green.
 It has some scientific functions and hex numbers.
 Codes are pretty nasty and bad. I will improve myself.
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
